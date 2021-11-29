@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "nightshadeNeon",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-005-f5f3cf677b1f132c75ddc7bd319dd1fc.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(0, 0, 0)",
+      "toolbar_text": "rgb(110, 44, 138)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(178, 0, 255)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(228, 91, 255)",
+      "tab_line": "rgb(211, 0, 252)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(245, 20, 0)",
+      "tab_loading": "rgb(211, 0, 252)"
+    }
+  }
+}
